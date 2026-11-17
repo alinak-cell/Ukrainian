@@ -16,7 +16,7 @@ Hi! This is my personal index page where I document and organize all of my proje
 | Date | Activity | Category | File / Link |
 | :--- | :--- | :--- | :--- |
 | 2026-11-17 | Initialized my activity hub | Setup | [View Setup Notes](notes/setup.md) |
-| 2026-11-15 | Uploaded first project files | Project | [Open Project](projects/project-1.pdf) |
+| 2026-11-15 | Uploaded first project files | Project | [Open Project](ukrainian_fruits_interactive.html) |
 | 2026-11-10 | Completed weekly coding practice | Learning | [View Code](activities/practice.py) |
 
 ---
